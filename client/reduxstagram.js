@@ -10,7 +10,7 @@ import Main from './components/Main';
 import Single from './components/Single';
 import PhotoGrid from './components/PhotoGrid';
 
-// import react router deps
+// import react router dependencies
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 
 const router = (
